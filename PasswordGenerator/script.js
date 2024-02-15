@@ -16,6 +16,7 @@ function randomPasswordGenerator(){
 
 copyBtn.addEventListener('click',() => {
     window.navigator.clipboard.writeText(inputField.value);
+    inputField.select();
     copyBtn.style.backgroundColor = 'rgb(2, 100, 41)';
 })
 

@@ -50,6 +50,11 @@ main{
     color: #000;
 }
 
+input::selection{
+    background-color: gray;
+    color: #fff;
+}
+
 .input-box #copy-btn{
     padding: 20px;
     font-size: large;
