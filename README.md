@@ -4,7 +4,7 @@
 # Projects :-
 
 ## Project 1 : Color Flipper
-**Description :-** when you click on **Click Me** button then **background color** will be **changed**. And you will get the **hex code** of **colour**.
+**Description :-** when you click on **Click Me** button then **background color** will be **changed**. And you can see the **hex code** of **color**.
 
 <img src="https://i.postimg.cc/4x6yG9ML/Screenshot-15.png" alt="Project 1"></img>
 
@@ -27,3 +27,8 @@
 **Description :-** A **quiz game**, when you **click** on the **wright** answer the **color** of that option will be **green** and when you **click** on **wrong** answer the **color** of that option will be **red** and **wright** answer will be **appear**. when you **complete** the game your **final** **score** will be **display** to you.
 
 <img src="https://i.postimg.cc/d137HcCv/Screenshot-21.png" alt="Project 5"></img>
+
+## Project 6 : Password Generator
+**Description :-** It is a basic password generator when you click on the **Generate Password** button a 10 digit password will be show to you on the input field and you can copy that password to the **clipboard** by clicking **Copy** button.
+
+<img src="https://i.postimg.cc/Nj8R0HFW/Screenshot-26.png"></img>
