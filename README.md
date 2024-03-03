@@ -31,4 +31,9 @@
 ## Project 6 : Password Generator
 **Description :-** It is a basic password generator when you click on the **Generate Password** button a 10 digit password will be show to you on the input field and you can copy that password to the **clipboard** by clicking **Copy** button.
 
-<img src="https://i.postimg.cc/Nj8R0HFW/Screenshot-26.png"></img>
+<img src="https://i.postimg.cc/Nj8R0HFW/Screenshot-26.png" alt="Project 6"></img>
+
+## Project 7 : Age Calculator
+**Description :-** The **Age Calculator** determines the age or interval between two dates. It displays the calculated age in years, months and days.
+
+<img src="https://i.postimg.cc/1XhMzK70/Screenshot-4.png" alt="Project 7">
